@@ -4,7 +4,7 @@
 using System;
 using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.Configuration;
-using Microsoft.WindowsAzure.Storage;
+using Microsoft.Azure.Storage;
 
 namespace Microsoft.Azure.WebJobs
 {
